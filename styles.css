@@ -1,11 +1,12 @@
 
 /* Your CSS Code here. */
-.main {
+.holder {
 	width : 600px;
 	height : 600px;
 	background-color : skyblue;
 	display : flex;
 	flex-wrap : wrap;
+	justify-content : space-evenly;
 }
 .d1 {
 	height : 200px;
